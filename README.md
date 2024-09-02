@@ -1,6 +1,6 @@
 # Automatización de Pruebas - API Coordinadora
 
-Este proyecto contiene pruebas automatizadas para la API de Coordinadora utilizando `pytest`, `screenpy-requests`, y un documento XML con la descripción de los escenarios de prueba requeridos en `Cucumber` con `Gherkin`. 
+Este proyecto contiene pruebas automatizadas para la API de Coordinadora utilizando `pytest`, `screenpy-requests`, y un documento xlsx con la descripción de los escenarios de prueba requeridos en `Cucumber` con `Gherkin`. 
 
 ## Descripción
 
